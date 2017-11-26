@@ -1,13 +1,13 @@
 # Site settings
-title: vdaubry.github.io
-email: vdaubry@gmail.com
-author: Vincent Daubry
-description: "A blog about backend development, mobile development, and entrepreneurship"
+title: mth2610.github.io
+email: mth2610@gmail.com
+author: mth2610
+description: "Blog của Thắng, viết về những gì mà Thắng thích :)"
 baseurl: ""
-url: "http://vdaubry.github.io"
-twitter_username: vdaubry
-github_username:  vdaubry
-linkedin_username: vincent daubry
+url: "http://mth2610.github.io"
+twitter_username: mth2610
+github_username:  mth2610
+linkedin_username: mth2610
 
 # Build settings
 markdown: kramdown
